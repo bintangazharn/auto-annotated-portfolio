@@ -80,7 +80,7 @@
             "phoneAltText": "Call us",
             "email": "john@doe.com",
             "emailAltText": "Email us",
-            "address": "312 Lovely Street, NY",
+            "address": "",
             "addressAltText": "Address",
             "elementId": ""
         },
