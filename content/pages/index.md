@@ -46,9 +46,15 @@ sections:
       Retro Relic is your deep dive into the iconic and forgotten technology of
       the past.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      We specialize in detailed, hands-on reviews of vintage phones, legendary
+      BlackBerry devices, the best physical keyboards, and iconic operating
+      systems like BB10, Symbian, and Windows Phone. The Mission: We test
+      whether these 'relics' still hold up in the modern world and uncover the
+      unique stories and brilliant engineering behind the tech we miss most. If
+      you're a tech enthusiast, a collector, or just looking for a strong dose
+      of 2000s nostalgia, you've found your home. Subscribe for weekly content
+      on retro tech reviews, collector guides, and the search for the ultimate
+      vintage gadget!
     styles:
       self:
         height: auto
