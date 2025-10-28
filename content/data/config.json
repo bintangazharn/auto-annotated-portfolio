@@ -13,7 +13,7 @@
                 "label": "Discord",
                 "url": "https://discord.gg/vf7ePmhP6s",
                 "altText": "",
-                "showIcon": true
+                "showIcon": false
             },
             {
                 "type": "Link",
