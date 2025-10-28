@@ -11,7 +11,8 @@
             {
                 "type": "Link",
                 "label": "Discord",
-                "url": "/info"
+                "url": "/info",
+                "altText": "Discord"
             },
             {
                 "type": "Link",
