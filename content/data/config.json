@@ -17,16 +17,6 @@
             },
             {
                 "type": "Link",
-                "label": "Archive",
-                "url": "/archive"
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
-            },
-            {
-                "type": "Link",
                 "label": "YouTube",
                 "altText": "",
                 "url": "https://youtube.com/@RetroRelicTech",
@@ -34,6 +24,16 @@
                 "icon": "youtube",
                 "iconPosition": "right",
                 "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Archive",
+                "url": "/archive"
+            },
+            {
+                "type": "Link",
+                "label": "Blog",
+                "url": "/blog"
             }
         ],
         "socialLinks": [
