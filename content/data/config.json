@@ -18,7 +18,7 @@
             {
                 "type": "Link",
                 "label": "Archive",
-                "url": "/projects"
+                "url": "/archive"
             },
             {
                 "type": "Link",
