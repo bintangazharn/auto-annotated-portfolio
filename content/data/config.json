@@ -62,16 +62,6 @@
                 "iconPosition": "right",
                 "style": "primary",
                 "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "East Java, Indonesia",
-                "altText": "",
-                "url": "/#",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
             }
         ],
         "contacts": {
