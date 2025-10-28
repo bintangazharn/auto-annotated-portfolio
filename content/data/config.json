@@ -77,7 +77,7 @@
             "type": "ContactBlock",
             "title": "",
             "phoneNumber": "",
-            "phoneAltText": "Call us",
+            "phoneAltText": "",
             "email": "john@doe.com",
             "emailAltText": "Email us",
             "address": "",
