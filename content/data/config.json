@@ -12,7 +12,8 @@
                 "type": "Link",
                 "label": "Discord",
                 "url": "https://discord.gg/vf7ePmhP6s",
-                "altText": ""
+                "altText": "",
+                "showIcon": true
             },
             {
                 "type": "Link",
