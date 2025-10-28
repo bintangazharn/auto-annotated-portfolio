@@ -84,7 +84,7 @@
             "addressAltText": "Address",
             "elementId": ""
         },
-        "copyrightText": "Copyright text",
+        "copyrightText": "Copyright `©` 2025 Retro Relic\n\n",
         "styles": {
             "self": {
                 "width": "narrow",
