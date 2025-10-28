@@ -10,16 +10,6 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "YouTube",
-                "altText": "",
-                "url": "https://youtube.com/@RetroRelicTech",
-                "showIcon": true,
-                "icon": "youtube",
-                "iconPosition": "right",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
                 "label": "Discord",
                 "url": "https://discord.gg/vf7ePmhP6s",
                 "altText": "",
@@ -34,6 +24,16 @@
                 "type": "Link",
                 "label": "Blog",
                 "url": "/blog"
+            },
+            {
+                "type": "Link",
+                "label": "YouTube",
+                "altText": "",
+                "url": "https://youtube.com/@RetroRelicTech",
+                "showIcon": true,
+                "icon": "youtube",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "socialLinks": [
