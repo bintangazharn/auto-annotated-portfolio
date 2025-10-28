@@ -4,7 +4,7 @@ title: Archive
 sections:
   - type: TextSection
     title: Archive
-    subtitle: This is anarchive page
+    subtitle: This is an archive page
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
