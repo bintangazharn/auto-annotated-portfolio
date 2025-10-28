@@ -30,7 +30,7 @@
                 "label": "YouTube",
                 "altText": "",
                 "url": "https://youtube.com/@RetroRelicTech",
-                "showIcon": false,
+                "showIcon": true,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
