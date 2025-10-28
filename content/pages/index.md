@@ -14,12 +14,18 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      Retro Relic is your deep dive into the iconic and forgotten technology of
+      the past.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      We specialize in detailed, hands-on reviews of vintage phones, legendary
+      BlackBerry devices, the best physical keyboards, and iconic operating
+      systems like BB10, Symbian, and Windows Phone. The Mission: We test
+      whether these 'relics' still hold up in the modern world and uncover the
+      unique stories and brilliant engineering behind the tech we miss most. If
+      you're a tech enthusiast, a collector, or just looking for a strong dose
+      of 2000s nostalgia, you've found your home. Subscribe for weekly content
+      on retro tech reviews, collector guides, and the search for the ultimate
+      vintage gadget!
     styles:
       self:
         height: auto
@@ -93,64 +99,55 @@ sections:
           - pr-4
         textAlign: left
   - type: ContactSection
-    colors: colors-f
-    backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: Contact Me
+    text: I'm look forward to hearing from you.
     form:
       type: FormBlock
-      elementId: sign-up-form
+      title: Title of the form
       fields:
-        - name: firstName
-          label: First Name
+        - type: TextFormControl
+          name: name
+          label: Name
           hideLabel: true
-          placeholder: First Name
-          isRequired: true
+          placeholder: Your name
           width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
+          isRequired: 'true'
+        - type: EmailFormControl
+          name: email
+          label: Name
           hideLabel: true
-          placeholder: Last Name
-          isRequired: false
+          placeholder: Your email
           width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
+          isRequired: 'true'
+        - type: TextareaFormControl
+          name: message
+          label: Tell me about your project
           hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: 1/2
-          type: EmailFormControl
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
+          placeholder: Tell me about your project
           width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+          isRequired: true
+        - type: CheckboxFormControl
+          name: updates
+          label: Sign me up to receive updates
+          width: full
+          isRequired: 'false'
+      submitLabel: Send Message
+      elementId: contact-form
       styles:
         self:
           textAlign: center
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
     styles:
       self:
         height: auto
         width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
         padding:
-          - pt-24
-          - pb-24
-          - pr-4
+          - pt-28
+          - pb-36
           - pl-4
+          - pr-4
         flexDirection: row
-        textAlign: left
+        textAlign: center
 ---
